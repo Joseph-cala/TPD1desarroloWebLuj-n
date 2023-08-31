@@ -1,0 +1,19 @@
+.titulo-principal {
+    color: rgb(21, 128, 0);
+
+}
+
+.parrafo-principal {
+    color: pink;
+    background-color: black;
+}
+
+.parrafo {
+    color: red;
+    background-color: yellow;
+}
+
+div p {
+    color: red;
+    background-color: white;
+}

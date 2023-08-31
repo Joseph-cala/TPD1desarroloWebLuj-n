@@ -1,0 +1,16 @@
+.titulo {
+    color: red;
+}
+
+.parrafo {
+    color: white;
+    background-color: black;
+}
+
+#titulo-principal {
+    font-size: 205px;
+}
+
+p {
+    color: grey
+}
